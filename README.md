@@ -1,4 +1,6 @@
-# Hi there 👋
+# <center>Hi there 👋</center>
+
+<center>Welcome to my page!!</center>
 
 I'm zeikomi 552.
 - 🔭 I’m currently working on Manufactuaring factory
